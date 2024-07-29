@@ -1,0 +1,58 @@
+{
+  "welcome": "Welcome to UkilZone",
+  "description": "Expert Legal Services Across Bangladesh",
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "lawyers": "Lawyers",
+    "contact": "Contact",
+    "about": "About Us"
+  },
+  "hero": {
+    "our_services": "Our Services",
+    "contact_us": "Contact Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "list": [
+      { "name": "Personal and Family", "description": "Legal assistance for personal and family matters." },
+      { "name": "Criminal Complaint", "description": "Expert representation in criminal cases." },
+      { "name": "Civil", "description": "Handling civil litigation and disputes." },
+      { "name": "Property", "description": "Property-related legal services." },
+      { "name": "Financial", "description": "Financial law and advisory services." },
+      { "name": "Corporate Law", "description": "Legal services for businesses and corporations." },
+      { "name": "Immigration", "description": "Immigration law and visa services." },
+      { "name": "Document", "description": "Assistance with legal documentation." },
+      { "name": "Tax", "description": "Tax law and advisory services." }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "list": [
+      {
+        "title": "All Over Bangladesh",
+        "description": "Providing legal services throughout Bangladesh with a strong presence in all major cities."
+      },
+      {
+        "title": "Experienced Lawyers",
+        "description": "Our team consists of highly experienced lawyers specialized in various fields of law."
+      },
+      {
+        "title": "Easy Connect",
+        "description": "Easily connect with our lawyers through various communication channels."
+      },
+      {
+        "title": "Affordable Pricing",
+        "description": "We offer competitive and affordable pricing for all our legal services."
+      }
+    ]
+  },
+  "howWeWork": {
+    "title": "How We Work",
+    "steps": [
+      { "title": "Share your legal issue", "description": "Provide basic details of your legal problem." },
+      { "title": "Connect with lawyer", "description": "We connect you with the right lawyer in your city." },
+      { "title": "Discuss your legal matter", "description": "Get expert advice to help resolve your legal issue." }
+    ]
+  }
+}

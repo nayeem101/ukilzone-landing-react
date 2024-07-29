@@ -1,0 +1,13 @@
+.header-title-border::after,
+.header-title-border::before {
+  content: "";
+  display: block;
+  width: 180px;
+  height: 2px;
+  @apply bg-gray-900 dark:bg-gray-300; /* Applying Tailwind CSS colors */
+  margin: 1rem auto;
+}
+
+.header-title-border::after{
+  height: 3px;
+}
