@@ -1,12 +1,13 @@
 {
-  "welcome": "Welcome to UkilZone",
-  "description": "Expert Legal Services Across Bangladesh",
+  "welcome": "Welcome to UkilZone platform",
+  "description": "Get legal advice from expert lawyers in Bangladesh through us.",
   "header": {
     "home": "Home",
     "services": "Services",
     "lawyers": "Lawyers",
     "contact": "Contact",
-    "about": "About Us"
+    "about": "About Us",
+    "app": "Mobile App"
   },
   "hero": {
     "our_services": "Our Services",
@@ -39,7 +40,7 @@
       },
       {
         "title": "Easy Connect",
-        "description": "Easily connect with our lawyers through various communication channels."
+        "description": "Easily connect with our lawyers through our mobile app."
       },
       {
         "title": "Affordable Pricing",
@@ -50,9 +51,12 @@
   "howWeWork": {
     "title": "How We Work",
     "steps": [
-      { "title": "Share your legal issue", "description": "Provide basic details of your legal problem." },
+      { "title": "Select your legal issue", "description": "Provide basic details of your legal problem." },
       { "title": "Connect with lawyer", "description": "We connect you with the right lawyer in your city." },
       { "title": "Discuss your legal matter", "description": "Get expert advice to help resolve your legal issue." }
     ]
+  },
+  "app": {
+    "title": "UkilZone App Coming Soon"
   }
 }

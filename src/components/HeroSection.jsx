@@ -29,10 +29,9 @@ const HeroSection = () => {
               {t("hero.contact_us")}
             </a>
           </div>
-
         </div>
-        <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
-          <img src={heroIllustration} alt="ukilzone" className="w-full h-full" />
+        <div className="mt-3 lg:mt-0 lg:col-span-5 lg:flex">
+          <img src={heroIllustration} alt="ukilzone" className="w-1/2 lg:w-full lg:h-full m-auto" />
         </div>
       </div>
     </section>

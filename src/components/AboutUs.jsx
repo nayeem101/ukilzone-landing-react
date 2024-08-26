@@ -32,7 +32,7 @@ const AboutUs = () => {
   const { t } = useTranslation();
 
   return (
-    <section className="bg-gray-100 dark:bg-gray-800">
+    <section className="bg-gray-100 dark:bg-gray-800" id="about">
       <div className="px-4 mx-auto max-w-screen-xl py-16 lg:px-6">
         <SectionHeader title={t("about.title")} />
 

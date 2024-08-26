@@ -8,6 +8,6 @@
   margin: 1rem auto;
 }
 
-.header-title-border::after{
+.header-title-border::after {
   height: 3px;
 }

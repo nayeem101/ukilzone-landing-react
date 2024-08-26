@@ -3,11 +3,15 @@ import AppImage2 from "../assets/images/app_image2.png";
 import AppImage3 from "../assets/images/app_image3.png";
 import SectionHeader from "./shared/SectionHeader";
 
+import { useTranslation } from "react-i18next";
+
 const AppComingSoon = () => {
+  const { t } = useTranslation();
+
   return (
-    <section className="py-12 bg-gray-200 dark:bg-gray-800" id="services">
+    <section id="app" className="py-12 bg-gray-200 dark:bg-gray-800">
       <div className="container mx-auto px-4">
-        <SectionHeader title={"UkilZone App Coming Soon"} />
+        <SectionHeader title={t("app.title")} />
       </div>
       <div className="max-w-screen-lg mx-auto mb-8">
         <div className="w-full flex justify-start md:justify-center gap-3 overflow-x-scroll md:overflow-x-hidden">
